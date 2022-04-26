@@ -7,8 +7,8 @@ Make sure you sign up for an account at Github <a href="https://github.com" targ
 **WARNING:** Before running the following commands, **replace `YOUR FULL NAME` and `YOUR EMAIL ADDRESS` with the name and email from <a href="https://github.com/settings/profile" target="_blank">your GitHub account</a>.**
 
 ```
-git config --global user.name 'YOUR FULL NAME'
-git config --global user.email 'YOUR EMAIL ADDRESS'
+git config --global user.name 'Hana Acciaioli'
+git config --global user.email 'hana.acciaioli@gmail.com'
 ```
 
 #### The terminal does not send success messages, in order to double check that you have successfully assigned your username and email:
